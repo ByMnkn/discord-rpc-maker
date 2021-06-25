@@ -1,0 +1,24 @@
+{
+  "name": "discord-rpc-maker",
+  "version": "1.0.0",
+  "description": "https://bymnkn.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bymnkn"
+  },
+  "keywords": [],
+  "author": "ByMnkn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bymnkn.com"
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "paint-console": "0.0.1"
+  }
+}
