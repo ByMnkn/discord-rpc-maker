@@ -1,10 +1,10 @@
 {
-	"AppID": "",
-	"status": "",
-	"image": "",
-	"text": "",
-	"button1": "",
-	"url1": "",
-	"button2": "",
-	"url2": ""
+  "AppID": ""; //oluşturduğumuz application'un ID'si.
+  "status": ""; //ilk satırda yazacak olan mesaj.
+  "image": ""; //large (büyük) olarak yüklediğimiz fotoğrafa koyduğumuz ad.
+  "text": ""; //large (büyük) resime imleç geldiğinde yazacak olan mesaj.
+  "button1": "";// ilk button ad.
+  "url1": ""; //ilk button URL
+  "button2": ""; //ikici button ad.
+  "url2": ""; //ikici button URL
 }
