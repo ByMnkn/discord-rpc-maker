@@ -14,6 +14,8 @@ Git https://git-scm.com/download/win
 
 NotePad++ https://notepad-plus-plus.org/download/
 
+Discord bot https://discordapp.com/developers/
+
 config.json
 ```` 
 {
