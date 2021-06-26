@@ -20,7 +20,7 @@ client.on('ready', () => {
                 large_text: config.text
             },
             buttons: [
-				    {
+            {
               label: config.button1,
               url: config.url1
             },
