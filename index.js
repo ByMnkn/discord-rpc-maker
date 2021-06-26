@@ -16,8 +16,10 @@ client.on('ready', () => {
         activity: {
             details: config.status,
             assets: {
-                large_image: config.image,
-                large_text: config.text
+                small_image: config.small_image,
+                small_text: config.small_text,
+                large_image: config.large_image,
+                large_text: config.large_text
             },
             buttons: [
             {
