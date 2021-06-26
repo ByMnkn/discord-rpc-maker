@@ -14,7 +14,7 @@ Git https://git-scm.com/download/win
 
 NotePad++ https://notepad-plus-plus.org/download/
 
-config.json'da Bulunan Yazıların Anlamları
+config.json
 ```` 
 {
   "AppID": ""; //oluşturduğumuz application'un ID'si.
