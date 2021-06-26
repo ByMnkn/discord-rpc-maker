@@ -31,7 +31,7 @@ NotePad++ https://notepad-plus-plus.org/download/
 
 8- Üstte bulunan yerden ClientID'yi alın ve ayarlar.json dosyasında bulunan "appid" kısmının önüne koyun.
 
-9- Yazıları düzenlemek için "ayarlar.json" dosyasını açın.
+9- Yazıları düzenlemek için "config.json" dosyasını açın.
 
 10 - Son olarak onları değiştirip kaydettikten sonra "start.bat" dosyasına çift tıklayın ve çalıştırın.
 
